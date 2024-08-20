@@ -1,17 +1,15 @@
 body {
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(bg.gif);;
+    background: #fbdcdc;
     height: 100%;
     margin: 0;
-    background-position: center;
-    background-size: cover;
   }
-
+  
   .birthday-card {
     position: relative;
     width: 300px;
     height: 395px;
     border: 10px solid #ef5050;
-    transform: translate(50%, 50%);
+    transform: translate(50%, 100%);
     margin: 60px auto 0 auto;
     -webkit-box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
             box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
